@@ -15,13 +15,13 @@
 		5500C0291CBB1AC300A49A47 /* MyTeamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5500C0281CBB1AC300A49A47 /* MyTeamTests.swift */; };
 		5500C0341CBB1AC400A49A47 /* MyTeamUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5500C0331CBB1AC400A49A47 /* MyTeamUITests.swift */; };
 		5597C46D1CD03C5A00C5B61B /* PlayerNameCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5597C46C1CD03C5A00C5B61B /* PlayerNameCell.swift */; };
-		55CEFFD31CD14AD5005387CF /* nbaSG.json in Resources */ = {isa = PBXBuildFile; fileRef = 55CEFFD21CD14AD5005387CF /* nbaSG.json */; };
-		55CEFFD51CD14ADA005387CF /* nbaSF.json in Resources */ = {isa = PBXBuildFile; fileRef = 55CEFFD41CD14ADA005387CF /* nbaSF.json */; };
-		55CEFFD71CD14ADE005387CF /* nbaPF.json in Resources */ = {isa = PBXBuildFile; fileRef = 55CEFFD61CD14ADE005387CF /* nbaPF.json */; };
-		55CEFFD91CD14AE2005387CF /* nbaC.json in Resources */ = {isa = PBXBuildFile; fileRef = 55CEFFD81CD14AE2005387CF /* nbaC.json */; };
-		55CEFFDD1CD14D20005387CF /* nbaPG.json in Resources */ = {isa = PBXBuildFile; fileRef = 55CEFFDC1CD14D20005387CF /* nbaPG.json */; };
-		55CEFFDF1CD19555005387CF /* nbaALL.json in Resources */ = {isa = PBXBuildFile; fileRef = 55CEFFDE1CD19555005387CF /* nbaALL.json */; };
 		55DFE1EB1CC6FF3400B8716D /* AddPlayerPGViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DFE1EA1CC6FF3400B8716D /* AddPlayerPGViewController.swift */; };
+		F4A4BCB01CD687FC00B62E22 /* nbaALL.json in Resources */ = {isa = PBXBuildFile; fileRef = F4A4BCAA1CD687FC00B62E22 /* nbaALL.json */; };
+		F4A4BCB11CD687FC00B62E22 /* nbaC.json in Resources */ = {isa = PBXBuildFile; fileRef = F4A4BCAB1CD687FC00B62E22 /* nbaC.json */; };
+		F4A4BCB21CD687FC00B62E22 /* nbaPF.json in Resources */ = {isa = PBXBuildFile; fileRef = F4A4BCAC1CD687FC00B62E22 /* nbaPF.json */; };
+		F4A4BCB31CD687FC00B62E22 /* nbaPG.json in Resources */ = {isa = PBXBuildFile; fileRef = F4A4BCAD1CD687FC00B62E22 /* nbaPG.json */; };
+		F4A4BCB41CD687FC00B62E22 /* nbaSF.json in Resources */ = {isa = PBXBuildFile; fileRef = F4A4BCAE1CD687FC00B62E22 /* nbaSF.json */; };
+		F4A4BCB51CD687FC00B62E22 /* nbaSG.json in Resources */ = {isa = PBXBuildFile; fileRef = F4A4BCAF1CD687FC00B62E22 /* nbaSG.json */; };
 		F4D186DD1CC2F92200631A07 /* PlayerListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D186DC1CC2F92200631A07 /* PlayerListViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -57,13 +57,13 @@
 		5500C0331CBB1AC400A49A47 /* MyTeamUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTeamUITests.swift; sourceTree = "<group>"; };
 		5500C0351CBB1AC400A49A47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5597C46C1CD03C5A00C5B61B /* PlayerNameCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerNameCell.swift; sourceTree = "<group>"; };
-		55CEFFD21CD14AD5005387CF /* nbaSG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nbaSG.json; path = ../../../../../../../../Downloads/nbaSG.json; sourceTree = "<group>"; };
-		55CEFFD41CD14ADA005387CF /* nbaSF.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nbaSF.json; path = ../../../../../../../../Downloads/nbaSF.json; sourceTree = "<group>"; };
-		55CEFFD61CD14ADE005387CF /* nbaPF.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nbaPF.json; path = ../../../../../../../../Downloads/nbaPF.json; sourceTree = "<group>"; };
-		55CEFFD81CD14AE2005387CF /* nbaC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nbaC.json; path = ../../../../../../../../Downloads/nbaC.json; sourceTree = "<group>"; };
-		55CEFFDC1CD14D20005387CF /* nbaPG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nbaPG.json; path = ../../../../../../../../Downloads/nbaPG.json; sourceTree = "<group>"; };
-		55CEFFDE1CD19555005387CF /* nbaALL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = nbaALL.json; path = ../../../../../../../../Downloads/nbaALL.json; sourceTree = "<group>"; };
 		55DFE1EA1CC6FF3400B8716D /* AddPlayerPGViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddPlayerPGViewController.swift; sourceTree = "<group>"; };
+		F4A4BCAA1CD687FC00B62E22 /* nbaALL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nbaALL.json; sourceTree = "<group>"; };
+		F4A4BCAB1CD687FC00B62E22 /* nbaC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nbaC.json; sourceTree = "<group>"; };
+		F4A4BCAC1CD687FC00B62E22 /* nbaPF.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nbaPF.json; sourceTree = "<group>"; };
+		F4A4BCAD1CD687FC00B62E22 /* nbaPG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nbaPG.json; sourceTree = "<group>"; };
+		F4A4BCAE1CD687FC00B62E22 /* nbaSF.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nbaSF.json; sourceTree = "<group>"; };
+		F4A4BCAF1CD687FC00B62E22 /* nbaSG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nbaSG.json; sourceTree = "<group>"; };
 		F4D186DC1CC2F92200631A07 /* PlayerListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,12 +117,12 @@
 			children = (
 				5500C0131CBB1AC300A49A47 /* AppDelegate.swift */,
 				5500C0171CBB1AC300A49A47 /* Main.storyboard */,
-				55CEFFDC1CD14D20005387CF /* nbaPG.json */,
-				55CEFFD21CD14AD5005387CF /* nbaSG.json */,
-				55CEFFD41CD14ADA005387CF /* nbaSF.json */,
-				55CEFFD61CD14ADE005387CF /* nbaPF.json */,
-				55CEFFD81CD14AE2005387CF /* nbaC.json */,
-				55CEFFDE1CD19555005387CF /* nbaALL.json */,
+				F4A4BCAA1CD687FC00B62E22 /* nbaALL.json */,
+				F4A4BCAB1CD687FC00B62E22 /* nbaC.json */,
+				F4A4BCAC1CD687FC00B62E22 /* nbaPF.json */,
+				F4A4BCAD1CD687FC00B62E22 /* nbaPG.json */,
+				F4A4BCAE1CD687FC00B62E22 /* nbaSF.json */,
+				F4A4BCAF1CD687FC00B62E22 /* nbaSG.json */,
 				F4D186DC1CC2F92200631A07 /* PlayerListViewController.swift */,
 				55DFE1EA1CC6FF3400B8716D /* AddPlayerPGViewController.swift */,
 				5500C0151CBB1AC300A49A47 /* PlayerStatsViewController.swift */,
@@ -259,14 +259,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55CEFFDF1CD19555005387CF /* nbaALL.json in Resources */,
-				55CEFFD71CD14ADE005387CF /* nbaPF.json in Resources */,
-				55CEFFD51CD14ADA005387CF /* nbaSF.json in Resources */,
-				55CEFFDD1CD14D20005387CF /* nbaPG.json in Resources */,
-				55CEFFD31CD14AD5005387CF /* nbaSG.json in Resources */,
 				5500C01E1CBB1AC300A49A47 /* LaunchScreen.storyboard in Resources */,
-				55CEFFD91CD14AE2005387CF /* nbaC.json in Resources */,
+				F4A4BCB11CD687FC00B62E22 /* nbaC.json in Resources */,
+				F4A4BCB31CD687FC00B62E22 /* nbaPG.json in Resources */,
+				F4A4BCB01CD687FC00B62E22 /* nbaALL.json in Resources */,
+				F4A4BCB41CD687FC00B62E22 /* nbaSF.json in Resources */,
+				F4A4BCB21CD687FC00B62E22 /* nbaPF.json in Resources */,
 				5500C01B1CBB1AC300A49A47 /* Assets.xcassets in Resources */,
+				F4A4BCB51CD687FC00B62E22 /* nbaSG.json in Resources */,
 				5500C0191CBB1AC300A49A47 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
