@@ -13,10 +13,16 @@ class PlayerStatsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let game1 = player.objectForKey("game1") as! Dictionary <String:String>
+        let game1 = player.objectForKey("game1") as! [String:String]
+        playerName.text = playerKey
+        assist.text = game1["ast"]
+        rebound.text = game1["reb"]
+        points.text = game1["pts"]
     }
+    
     var player: NSDictionary!
     
+    var playerKey: String!
     
     @IBOutlet var playerName: UILabel!
     @IBOutlet var assist: UILabel!
